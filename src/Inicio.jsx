@@ -51,7 +51,7 @@ const Inicio = () => {
   <div className='contenedorDeParrafo3'>
     <div className='contenedorDeParrafo4'>
       <p>¡No te pierdas nuestras últimas recetas y consejos de cocina!</p>
-      {<Link to={'/receta'}>👉 Click aquí para receta de Bacalhau à Brás
+      {<Link to={'https://cuty.io/avRWElIWv4m'}>👉 Click aquí para receta de Bacalhau à Brás
       </Link>}
       <h1>Recetas fáciles</h1>
       <h1>Cocina rápida</h1>
