@@ -17,7 +17,7 @@ const Inicio = () => {
 
     <div className='inicio'>
       <span className='parrafo'>Aca arriba te dejo un link para que vayas a nuestra receta Bacalhau à Brás (super sencilla) </span>
-      {<Link className='parrafo' to={'/receta'}>👉 Click aquí para receta de Bacalhau à Brás
+      {<Link className='parrafo' to={'https://cuty.io/avRWElIWv4m'}>👉 Click aquí para receta de Bacalhau à Brás
       </Link>}
       
     </div>
@@ -39,11 +39,11 @@ const Inicio = () => {
     
     <p className='parrafo'>Navega por nuestras categorías y sorprende a tu familia y amigos con recetas llenas de sabor.</p>
     
-    <img className='pruebade' src='/bacalao.jpeg' alt='Receta destacada' />
+    <img className='pruebade' src='https://recetasfacilesysimples.netlify.app/bacalao.jpeg' alt='Receta destacada' />
     
     <p className='parrafo'>Explora nuestras recetas recomendadas, con ingredientes frescos y fáciles de encontrar. ¡Cocinar nunca fue tan divertido!</p>
     
-    <img className='pruebade' src='/postre.jpg' alt='Postre delicioso' />
+    <img className='pruebade' src='https://recetasfacilesysimples.netlify.app/postre.jpg' alt='Postre delicioso' />
     
     <p className='parrafo'>¡Anímate a probar nuevas combinaciones y comparte con nosotros tus creaciones culinarias!</p>
   </div>

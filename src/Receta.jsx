@@ -17,7 +17,7 @@ const Receta = () => {
 
     <div className='inicio'>
  
-      {<Link className='parrafo' to={'/'}>👉 Click aquí para volver al inicio
+      {<Link className='parrafo' to={'https://cuty.io/gfK094'}>👉 Click aquí para volver al inicio
       </Link>}
 
       
@@ -49,7 +49,7 @@ const Receta = () => {
         <li>Perejil picado para decorar</li>
       </ul>
       
-      <img className='pruebade' src='/bacalao.jpeg' alt='Bacalhau à Brás' />
+      <img className='pruebade' src='https://recetasfacilesysimples.netlify.app/bacalao.jpeg' alt='Bacalhau à Brás' />
       
       <h2 className='parrafo'>Preparación:</h2>
       <ol className='parrafo'>
